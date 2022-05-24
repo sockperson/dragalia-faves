@@ -14,7 +14,7 @@ const favsTitle = require("../resources/misc/favs.png");
 class Favs extends Component {
     state = {
         elements: ["?", "flame", "water", "wind", "light", "shadow"],
-        weapons: ["?", "sword", "blade", "dagger", "lance", "axe", "bow", "wand" , "staff", "gun", "dragon"],
+        weapons: ["?", "sword", "blade", "dagger", "axe", "lance", "bow", "wand" , "staff", "gun", "dragon"],
         clickElement: "?",
         clickWeapon: "?",
         imgs: this.createArray()
