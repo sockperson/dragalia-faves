@@ -24,7 +24,7 @@ class AdvButton extends Component {
             <React.Fragment>
                 <button onClick={() => this.props.handleAdvButtonClick(this.props.ele, this.props.wep)}
                     className={this.getFormat()}>
-                    <img src={this.props.img} width="80"/>
+                    <img src={this.props.img} width="90"/>
                 </button>
             </React.Fragment>
         );

@@ -29,6 +29,11 @@ class App extends Component {
                             </button>
                         </div>
                     </div>
+                    <div className="text-center mb-5 text-muted">
+                        All characters/assets belong to Cygames and Nintendo
+                        <div></div>
+                        please view in desktop since idk how to make things work on mobile
+                    </div>
                 </React.Fragment>
             );
     }

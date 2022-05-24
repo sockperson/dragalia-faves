@@ -14,7 +14,7 @@ const favsTitle = require("../resources/misc/favs.png");
 class Favs extends Component {
     state = {
         elements: ["?", "flame", "water", "wind", "light", "shadow"],
-        weapons: ["?", "sword", "blade", "dagger", "lance", "axe", "bow", "wand" , "staff", "gun"],
+        weapons: ["?", "sword", "blade", "dagger", "lance", "axe", "bow", "wand" , "staff", "gun", "dragon"],
         clickElement: "?",
         clickWeapon: "?",
         imgs: this.createArray()
@@ -23,7 +23,7 @@ class Favs extends Component {
     createArray() {
         var arr = new Array(5);
         for(let i=0; i<arr.length; i++){
-            arr[i] = new Array(9);
+            arr[i] = new Array(10);
             for(let j=0; j<arr[i].length; j++){
                 arr[i][j] = unknownImg;
             }
@@ -110,7 +110,7 @@ class Favs extends Component {
                     <img src={img} className="mx-auto d-block" alt=""></img>
                    </div>;
         } else {
-            return <div className="col-2 border" key={element+","+weapon}>
+            return <div className="col-2 border text-center" key={element+","+weapon}>
                     <AdvButton
                         key={element+weapon}
                         ele={element}
@@ -151,7 +151,7 @@ class Favs extends Component {
                                 ))
                             ))}
                             <div className="row justify-content-center">
-                                <p className="col-1 h4 mt-2 mb-2 text-muted text-nowrap">Made in sockperson.github.io/dragalia-favs</p>
+                                <p className="col-5 h4 mt-2 mb-2 text-muted text-nowrap">Made in sockperson.github.io/dragalia-faves</p>
                             </div>
                         </div>
                     </OutsideClickHandler>

@@ -1,0 +1,800 @@
+[
+    {
+        "FullName": "Gala Mars",
+        "BaseId": 200009,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Chthonius",
+        "BaseId": 200010,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Gala Cat S\u00ecth",
+        "BaseId": 200017,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Gala Thor",
+        "BaseId": 200018,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Midgardsormr",
+        "BaseId": 210001,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Brunhilda",
+        "BaseId": 210002,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Mercury",
+        "BaseId": 210003,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Jupiter",
+        "BaseId": 210004,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Zodiark",
+        "BaseId": 210005,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Phoenix",
+        "BaseId": 210006,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Ifrit",
+        "BaseId": 210007,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Poli\u02bbahu",
+        "BaseId": 210008,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Sylvia",
+        "BaseId": 210010,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Stribog",
+        "BaseId": 210011,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Unicorn",
+        "BaseId": 210012,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Lindworm",
+        "BaseId": 210013,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Juggernaut",
+        "BaseId": 210014,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Silke",
+        "BaseId": 210015,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Agni",
+        "BaseId": 210016,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Leviathan",
+        "BaseId": 210017,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Zephyr",
+        "BaseId": 210018,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Nidhogg",
+        "BaseId": 210019,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Jeanne d'Arc",
+        "BaseId": 210020,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Homura",
+        "BaseId": 210021,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Cinder Drake",
+        "BaseId": 210022,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Kindling Imp",
+        "BaseId": 210023,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Cerberus",
+        "BaseId": 210024,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Poseidon",
+        "BaseId": 210025,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Pazuzu",
+        "BaseId": 210026,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Arctos",
+        "BaseId": 210030,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Garuda",
+        "BaseId": 210036,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "High Midgardsormr",
+        "BaseId": 210038,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "High Brunhilda",
+        "BaseId": 210039,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "High Mercury",
+        "BaseId": 210040,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "High Jupiter",
+        "BaseId": 210041,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "High Zodiark",
+        "BaseId": 210042,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Liger",
+        "BaseId": 210043,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Phantom",
+        "BaseId": 210045,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Nyarlathotep",
+        "BaseId": 210046,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Gilgamesh",
+        "BaseId": 210048,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Cupid",
+        "BaseId": 210049,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Roc",
+        "BaseId": 210050,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Takemikazuchi",
+        "BaseId": 210051,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Prometheus",
+        "BaseId": 210052,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Nimis",
+        "BaseId": 210053,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Siren",
+        "BaseId": 210054,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Erasmus",
+        "BaseId": 210055,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Corsaint Phoenix",
+        "BaseId": 210056,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Pele",
+        "BaseId": 210057,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Vodyanoy",
+        "BaseId": 210058,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Fubuki",
+        "BaseId": 210059,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Tsumuji",
+        "BaseId": 210060,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Hinata",
+        "BaseId": 210061,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Hikage",
+        "BaseId": 210062,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Snow Drake",
+        "BaseId": 210063,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Gust Drake",
+        "BaseId": 210064,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Moon Drake",
+        "BaseId": 210065,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gloom Drake",
+        "BaseId": 210066,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Wellspring Imp",
+        "BaseId": 210067,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Zephyr Imp",
+        "BaseId": 210068,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Astral Imp",
+        "BaseId": 210069,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Pallid Imp",
+        "BaseId": 210070,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Maritimus",
+        "BaseId": 210072,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Yulong",
+        "BaseId": 210074,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Halloween Silke",
+        "BaseId": 210075,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Dragonyule Jeanne",
+        "BaseId": 210076,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Marishiten",
+        "BaseId": 210077,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Shishimai",
+        "BaseId": 210078,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Peng Lai",
+        "BaseId": 210079,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Long Long",
+        "BaseId": 210080,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Simurgh",
+        "BaseId": 210081,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Konohana Sakuya",
+        "BaseId": 210082,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Barbatos",
+        "BaseId": 210083,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Freyja",
+        "BaseId": 210084,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Tie Shan Gongzhu",
+        "BaseId": 210085,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Shinobi",
+        "BaseId": 210087,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Bronze Fafnir",
+        "BaseId": 210089,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Silver Fafnir",
+        "BaseId": 210090,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Gold Fafnir",
+        "BaseId": 210091,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Pop-Star Siren",
+        "BaseId": 210094,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Parallel Zodiark",
+        "BaseId": 210095,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Halloween Maritimus",
+        "BaseId": 210097,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Vayu",
+        "BaseId": 210098,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Apollo",
+        "BaseId": 210103,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Hastur",
+        "BaseId": 210105,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Kagutsuchi",
+        "BaseId": 210107,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Kamuy",
+        "BaseId": 210109,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Daikokuten",
+        "BaseId": 210110,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Mini Mids",
+        "BaseId": 210111,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Epimetheus",
+        "BaseId": 210112,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Ebisu",
+        "BaseId": 210114,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Andromeda",
+        "BaseId": 210115,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Ariel",
+        "BaseId": 210116,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "AC-011 Garland",
+        "BaseId": 210117,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Gaibhne & Creidhne",
+        "BaseId": 210120,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Rathalos",
+        "BaseId": 210121,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Dreadking Rathalos",
+        "BaseId": 210122,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Fatalis",
+        "BaseId": 210123,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Horus",
+        "BaseId": 210124,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Summer Konohana Sakuya",
+        "BaseId": 210125,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Azazel",
+        "BaseId": 210126,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Mini Zodi",
+        "BaseId": 210127,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Styx",
+        "BaseId": 210130,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Midgardsormr Zero",
+        "BaseId": 210131,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Ramiel",
+        "BaseId": 210132,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Mini Hildy",
+        "BaseId": 210133,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Gala Reborn Poseidon",
+        "BaseId": 210134,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Giovanni",
+        "BaseId": 210135,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Gozu Tenno",
+        "BaseId": 210136,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Menoetius",
+        "BaseId": 210137,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Ars\u00e8ne",
+        "BaseId": 210138,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Lumi\u00e8re Pandora",
+        "BaseId": 210142,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gala Reborn Zephyr",
+        "BaseId": 210143,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Gala Reborn Jeanne",
+        "BaseId": 210144,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gabriel",
+        "BaseId": 210145,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Mini Mercs",
+        "BaseId": 210146,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Gala Reborn Agni",
+        "BaseId": 210147,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "High Chthonius",
+        "BaseId": 210148,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Rose Queen",
+        "BaseId": 210152,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Raphael",
+        "BaseId": 210154,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gala Reborn Nidhogg",
+        "BaseId": 210155,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Summer Marishiten",
+        "BaseId": 210156,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Summer Cat S\u00ecth",
+        "BaseId": 210158,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gala Beast Volk",
+        "BaseId": 210161,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Gala Bahamut",
+        "BaseId": 210162,
+        "VariationId": 1,
+        "Element": "shadow"
+    },
+    {
+        "FullName": "Uriel",
+        "BaseId": 210163,
+        "VariationId": 1,
+        "Element": "flame"
+    },
+    {
+        "FullName": "Gala Chronos Nyx",
+        "BaseId": 210164,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Mini Jupi",
+        "BaseId": 210166,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Gala Beast Ciella",
+        "BaseId": 210167,
+        "VariationId": 1,
+        "Element": "water"
+    },
+    {
+        "FullName": "Michael",
+        "BaseId": 210168,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Fudo Myo-o",
+        "BaseId": 210169,
+        "VariationId": 1,
+        "Element": "wind"
+    },
+    {
+        "FullName": "Gala Elysium",
+        "BaseId": 210173,
+        "VariationId": 1,
+        "Element": "light"
+    },
+    {
+        "FullName": "Primal Brunhilda",
+        "BaseId": 210177,
+        "VariationId": 1,
+        "Element": "flame"
+    }
+]
