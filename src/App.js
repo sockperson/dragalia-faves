@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React, {Component, useRef} from 'react';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Favs from './components/Favs';
+
+import { exportComponentAsPNG } from 'react-component-export-image';
+
+
+class App extends Component {
+    state = {
+
+    };
+
+
+
+    render(){
+            const printRef = React.createRef();
+
+            return (
+                <React.Fragment>
+                    <Favs key="ok" ref={printRef}></Favs>
+                    <div className="text-center mt-2">
+                        <button onClick={() => exportComponentAsPNG(printRef)} className="btn btn-secondary btn-sm">
+                            Export to PNG
+                        </button>
+                    </div>
+                    <p>I love minecraft!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+                </React.Fragment>
+            );
+    }
 }
 
 export default App;

@@ -1,0 +1,2088 @@
+[
+  {
+    "Id": 100001,
+    "VariationId": 1,
+    "FullName": "The Prince",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100001,
+    "VariationId": 8,
+    "FullName": "Gala Prince",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100001,
+    "VariationId": 12,
+    "FullName": "Summer Prince",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100001,
+    "VariationId": 14,
+    "FullName": "Bondforged Prince",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100002,
+    "VariationId": 1,
+    "FullName": "Elisanne",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100002,
+    "VariationId": 2,
+    "FullName": "Halloween Elisanne",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100002,
+    "VariationId": 6,
+    "FullName": "Wedding Elisanne",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100002,
+    "VariationId": 13,
+    "FullName": "Gala Elisanne",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100002,
+    "VariationId": 15,
+    "FullName": "Kimono Elisanne",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100003,
+    "VariationId": 1,
+    "FullName": "Ranzal",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100003,
+    "VariationId": 2,
+    "FullName": "Summer Ranzal",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100003,
+    "VariationId": 7,
+    "FullName": "Gala Ranzal",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100003,
+    "VariationId": 10,
+    "FullName": "Child Ranzal",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 1,
+    "FullName": "Cleo",
+    "Element": "shadow",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 2,
+    "FullName": "Dragonyule Cleo",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 4,
+    "FullName": "Summer Cleo",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 10,
+    "FullName": "Gala Cleo",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 17,
+    "FullName": "Forager Cleo",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100004,
+    "VariationId": 19,
+    "FullName": "Yukata Cleo",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100005,
+    "VariationId": 1,
+    "FullName": "Alex",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100005,
+    "VariationId": 2,
+    "FullName": "Gala Alex",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100005,
+    "VariationId": 8,
+    "FullName": "Summer Alex",
+    "Element": "flame",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100006,
+    "VariationId": 1,
+    "FullName": "Luca",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100006,
+    "VariationId": 3,
+    "FullName": "Summer Luca",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100006,
+    "VariationId": 9,
+    "FullName": "Gala Luca",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100006,
+    "VariationId": 11,
+    "FullName": "Kimono Luca",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100007,
+    "VariationId": 7,
+    "FullName": "Gala Notte",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100007,
+    "VariationId": 10,
+    "FullName": "Kimono Notte",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 100008,
+    "VariationId": 4,
+    "FullName": "Nina",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 100009,
+    "VariationId": 7,
+    "FullName": "Zena",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100009,
+    "VariationId": 8,
+    "FullName": "Gala Zena",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 100010,
+    "VariationId": 4,
+    "FullName": "Gala Mym",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100010,
+    "VariationId": 7,
+    "FullName": "Halloween Mym",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100010,
+    "VariationId": 10,
+    "FullName": "Summer Mym",
+    "Element": "shadow",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 100013,
+    "VariationId": 4,
+    "FullName": "Gala Leonidas",
+    "Element": "flame",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 100013,
+    "VariationId": 6,
+    "FullName": "Summer Leonidas",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100014,
+    "VariationId": 3,
+    "FullName": "Phares",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 100015,
+    "VariationId": 4,
+    "FullName": "Chelle",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100015,
+    "VariationId": 5,
+    "FullName": "Gala Chelle",
+    "Element": "shadow",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 100015,
+    "VariationId": 8,
+    "FullName": "Summer Chelle",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100016,
+    "VariationId": 3,
+    "FullName": "Valyx",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100017,
+    "VariationId": 3,
+    "FullName": "Gala Emile",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100018,
+    "VariationId": 2,
+    "FullName": "Gala Leif",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100018,
+    "VariationId": 7,
+    "FullName": "Civilian Leif",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100019,
+    "VariationId": 2,
+    "FullName": "Harle",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100029,
+    "VariationId": 2,
+    "FullName": "Gala Sarisse",
+    "Element": "flame",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100029,
+    "VariationId": 3,
+    "FullName": "Hunter Sarisse",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 100029,
+    "VariationId": 4,
+    "FullName": "Sharpshooter Sarisse",
+    "Element": "water",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 100031,
+    "VariationId": 3,
+    "FullName": "Alberius",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100032,
+    "VariationId": 1,
+    "FullName": "Laxi",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100032,
+    "VariationId": 4,
+    "FullName": "Gala Laxi",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100032,
+    "VariationId": 7,
+    "FullName": "Halloween Laxi",
+    "Element": "light",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 100039,
+    "VariationId": 3,
+    "FullName": "Gala Nedrick",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 100042,
+    "VariationId": 2,
+    "FullName": "Gala Gatov",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 100043,
+    "VariationId": 2,
+    "FullName": "Origa",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 100044,
+    "VariationId": 2,
+    "FullName": "Sheila",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 100045,
+    "VariationId": 1,
+    "FullName": "Gala Mascula",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100054,
+    "VariationId": 1,
+    "FullName": "Gala Zethia",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 100054,
+    "VariationId": 2,
+    "FullName": "Bondforged Zethia",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110001,
+    "VariationId": 1,
+    "FullName": "Alain",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110002,
+    "VariationId": 1,
+    "FullName": "Aoi",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110002,
+    "VariationId": 2,
+    "FullName": "Wedding Aoi",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110003,
+    "VariationId": 1,
+    "FullName": "Joe",
+    "Element": "flame",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110003,
+    "VariationId": 2,
+    "FullName": "Sharpshooter Joe",
+    "Element": "light",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110004,
+    "VariationId": 1,
+    "FullName": "Xania",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110004,
+    "VariationId": 2,
+    "FullName": "Wedding Xania",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110005,
+    "VariationId": 1,
+    "FullName": "Renelle",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110006,
+    "VariationId": 1,
+    "FullName": "Aurien",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110007,
+    "VariationId": 1,
+    "FullName": "Vanessa",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110007,
+    "VariationId": 2,
+    "FullName": "Hunter Vanessa",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110008,
+    "VariationId": 1,
+    "FullName": "Karl",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110009,
+    "VariationId": 1,
+    "FullName": "Sinoa",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110009,
+    "VariationId": 2,
+    "FullName": "Summer Sinoa",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110010,
+    "VariationId": 1,
+    "FullName": "Mikoto",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110010,
+    "VariationId": 2,
+    "FullName": "Summer Mikoto",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110011,
+    "VariationId": 1,
+    "FullName": "Ezelith",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110011,
+    "VariationId": 2,
+    "FullName": "Valentine's Ezelith",
+    "Element": "flame",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110012,
+    "VariationId": 1,
+    "FullName": "Rex",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110013,
+    "VariationId": 1,
+    "FullName": "Waike",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110014,
+    "VariationId": 1,
+    "FullName": "Cibella",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110015,
+    "VariationId": 1,
+    "FullName": "Zardin",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110015,
+    "VariationId": 2,
+    "FullName": "Beautician Zardin",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110016,
+    "VariationId": 1,
+    "FullName": "Jurota",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110017,
+    "VariationId": 1,
+    "FullName": "Ricardt",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110018,
+    "VariationId": 1,
+    "FullName": "Karina",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110018,
+    "VariationId": 2,
+    "FullName": "Opera Karina",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110019,
+    "VariationId": 1,
+    "FullName": "Thaniel",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110020,
+    "VariationId": 1,
+    "FullName": "Luther",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110021,
+    "VariationId": 1,
+    "FullName": "Xainfried",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110021,
+    "VariationId": 3,
+    "FullName": "Dragonyule Xainfried",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110022,
+    "VariationId": 1,
+    "FullName": "Xander",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110022,
+    "VariationId": 2,
+    "FullName": "Dragonyule Xander",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110023,
+    "VariationId": 1,
+    "FullName": "Johanna",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110024,
+    "VariationId": 1,
+    "FullName": "Sophie",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110025,
+    "VariationId": 1,
+    "FullName": "Nicolas",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110026,
+    "VariationId": 1,
+    "FullName": "Francesca",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110027,
+    "VariationId": 1,
+    "FullName": "Melody",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110027,
+    "VariationId": 2,
+    "FullName": "Valentine's Melody",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110028,
+    "VariationId": 1,
+    "FullName": "Philia",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110029,
+    "VariationId": 1,
+    "FullName": "Aeleen",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110029,
+    "VariationId": 2,
+    "FullName": "Nurse Aeleen",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110030,
+    "VariationId": 1,
+    "FullName": "Musashi",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110031,
+    "VariationId": 1,
+    "FullName": "Eleonora",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110032,
+    "VariationId": 1,
+    "FullName": "Maribelle",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110032,
+    "VariationId": 2,
+    "FullName": "Student Maribelle",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110033,
+    "VariationId": 1,
+    "FullName": "Linus",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110034,
+    "VariationId": 1,
+    "FullName": "Malka",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110035,
+    "VariationId": 1,
+    "FullName": "Raemond",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110036,
+    "VariationId": 1,
+    "FullName": "Malora",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110036,
+    "VariationId": 3,
+    "FullName": "Dragonyule Malora",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110037,
+    "VariationId": 1,
+    "FullName": "Irfan",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110038,
+    "VariationId": 1,
+    "FullName": "Hope",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110038,
+    "VariationId": 2,
+    "FullName": "Templar Hope",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110039,
+    "VariationId": 1,
+    "FullName": "Ryozen",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110040,
+    "VariationId": 1,
+    "FullName": "Rawn",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110041,
+    "VariationId": 1,
+    "FullName": "Amane",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110041,
+    "VariationId": 2,
+    "FullName": "Summer Amane",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110042,
+    "VariationId": 1,
+    "FullName": "Julietta",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110042,
+    "VariationId": 2,
+    "FullName": "Summer Julietta",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110043,
+    "VariationId": 1,
+    "FullName": "Hildegarde",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110043,
+    "VariationId": 2,
+    "FullName": "Valentine's Hildegarde",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110044,
+    "VariationId": 1,
+    "FullName": "Taro",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110045,
+    "VariationId": 1,
+    "FullName": "Erik",
+    "Element": "shadow",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110046,
+    "VariationId": 1,
+    "FullName": "Rodrigo",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110047,
+    "VariationId": 1,
+    "FullName": "Althemia",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110047,
+    "VariationId": 2,
+    "FullName": "Halloween Althemia",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110048,
+    "VariationId": 1,
+    "FullName": "Vice",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110049,
+    "VariationId": 1,
+    "FullName": "Edward",
+    "Element": "shadow",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110049,
+    "VariationId": 2,
+    "FullName": "Halloween Edward",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110050,
+    "VariationId": 1,
+    "FullName": "Berserker",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110050,
+    "VariationId": 2,
+    "FullName": "Hunter Berserker",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110051,
+    "VariationId": 1,
+    "FullName": "Kleimann",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110052,
+    "VariationId": 1,
+    "FullName": "Orion",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110052,
+    "VariationId": 3,
+    "FullName": "Valentine's Orion",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110053,
+    "VariationId": 1,
+    "FullName": "Nefaria",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110053,
+    "VariationId": 2,
+    "FullName": "Dragonyule Nefaria",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110053,
+    "VariationId": 3,
+    "FullName": "Incognito Nefaria",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110054,
+    "VariationId": 1,
+    "FullName": "Serena",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110056,
+    "VariationId": 1,
+    "FullName": "Yue",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110058,
+    "VariationId": 1,
+    "FullName": "Jakob",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110059,
+    "VariationId": 1,
+    "FullName": "Grace",
+    "Element": "shadow",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110059,
+    "VariationId": 2,
+    "FullName": "Undercover Grace",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110063,
+    "VariationId": 1,
+    "FullName": "Estelle",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110063,
+    "VariationId": 2,
+    "FullName": "Summer Estelle",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110064,
+    "VariationId": 1,
+    "FullName": "Yachiyo",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110064,
+    "VariationId": 2,
+    "FullName": "Armored Yachiyo",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110066,
+    "VariationId": 1,
+    "FullName": "Norwin",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110066,
+    "VariationId": 2,
+    "FullName": "Summer Norwin",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110067,
+    "VariationId": 1,
+    "FullName": "Vida",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110252,
+    "VariationId": 1,
+    "FullName": "Lily",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110252,
+    "VariationId": 2,
+    "FullName": "Dragonyule Lily",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110253,
+    "VariationId": 1,
+    "FullName": "Orsem",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110254,
+    "VariationId": 1,
+    "FullName": "Zace",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110255,
+    "VariationId": 1,
+    "FullName": "Celliera",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110255,
+    "VariationId": 2,
+    "FullName": "Summer Celliera",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110256,
+    "VariationId": 1,
+    "FullName": "Louise",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110257,
+    "VariationId": 1,
+    "FullName": "Lowen",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110257,
+    "VariationId": 2,
+    "FullName": "Halloween Lowen",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110258,
+    "VariationId": 1,
+    "FullName": "Pietro",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110259,
+    "VariationId": 1,
+    "FullName": "Lea",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110260,
+    "VariationId": 1,
+    "FullName": "Emma",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110261,
+    "VariationId": 1,
+    "FullName": "Marty",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110262,
+    "VariationId": 1,
+    "FullName": "Aldred",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110263,
+    "VariationId": 1,
+    "FullName": "Ramona",
+    "Element": "flame",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110264,
+    "VariationId": 1,
+    "FullName": "Rena",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110265,
+    "VariationId": 1,
+    "FullName": "Renee",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110266,
+    "VariationId": 1,
+    "FullName": "Naveed",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110267,
+    "VariationId": 1,
+    "FullName": "Hawk",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110268,
+    "VariationId": 1,
+    "FullName": "Lin You",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110269,
+    "VariationId": 1,
+    "FullName": "Verica",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110269,
+    "VariationId": 2,
+    "FullName": "Summer Verica",
+    "Element": "shadow",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110270,
+    "VariationId": 1,
+    "FullName": "Melsa",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110270,
+    "VariationId": 2,
+    "FullName": "Halloween Melsa",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110271,
+    "VariationId": 1,
+    "FullName": "Linnea",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110272,
+    "VariationId": 1,
+    "FullName": "Forte",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110274,
+    "VariationId": 1,
+    "FullName": "Albert",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110275,
+    "VariationId": 1,
+    "FullName": "Annelie",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110276,
+    "VariationId": 1,
+    "FullName": "Fritz",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110277,
+    "VariationId": 1,
+    "FullName": "Felicia",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110280,
+    "VariationId": 1,
+    "FullName": "Heinwald",
+    "Element": "shadow",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110281,
+    "VariationId": 1,
+    "FullName": "Curran",
+    "Element": "shadow",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110281,
+    "VariationId": 2,
+    "FullName": "Yukata Curran",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110285,
+    "VariationId": 1,
+    "FullName": "Grimnir",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110291,
+    "VariationId": 1,
+    "FullName": "Marth",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110295,
+    "VariationId": 1,
+    "FullName": "Valerio",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110296,
+    "VariationId": 1,
+    "FullName": "Mitsuba",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110296,
+    "VariationId": 2,
+    "FullName": "Forager Mitsuba",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110299,
+    "VariationId": 1,
+    "FullName": "Xuan Zang",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110299,
+    "VariationId": 2,
+    "FullName": "Radiant Xuan Zang",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110300,
+    "VariationId": 1,
+    "FullName": "Pipple",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110301,
+    "VariationId": 1,
+    "FullName": "Odetta",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110301,
+    "VariationId": 2,
+    "FullName": "Halloween Odetta",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110302,
+    "VariationId": 1,
+    "FullName": "Pia",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110302,
+    "VariationId": 4,
+    "FullName": "Housekeeper Pia",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110303,
+    "VariationId": 1,
+    "FullName": "Elias",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110304,
+    "VariationId": 1,
+    "FullName": "Vixel",
+    "Element": "light",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110305,
+    "VariationId": 1,
+    "FullName": "Lucretia",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110306,
+    "VariationId": 1,
+    "FullName": "Bellina",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110307,
+    "VariationId": 1,
+    "FullName": "Victor",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110307,
+    "VariationId": 2,
+    "FullName": "Dragonyule Victor",
+    "Element": "shadow",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110310,
+    "VariationId": 1,
+    "FullName": "Addis",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110310,
+    "VariationId": 2,
+    "FullName": "Valentine's Addis",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110311,
+    "VariationId": 1,
+    "FullName": "Sazanka",
+    "Element": "shadow",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110312,
+    "VariationId": 1,
+    "FullName": "Botan",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110313,
+    "VariationId": 1,
+    "FullName": "Ieyasu",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110313,
+    "VariationId": 3,
+    "FullName": "Summer Ieyasu",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110314,
+    "VariationId": 1,
+    "FullName": "Su Fang",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110315,
+    "VariationId": 1,
+    "FullName": "Ku Hai",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110316,
+    "VariationId": 1,
+    "FullName": "Xiao Lei",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110317,
+    "VariationId": 1,
+    "FullName": "Laranoa",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110318,
+    "VariationId": 1,
+    "FullName": "Sylas",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110318,
+    "VariationId": 2,
+    "FullName": "Halloween Sylas",
+    "Element": "shadow",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110319,
+    "VariationId": 1,
+    "FullName": "Fleur",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110322,
+    "VariationId": 1,
+    "FullName": "Zhu Bajie",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110323,
+    "VariationId": 1,
+    "FullName": "Sha Wujing",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110324,
+    "VariationId": 1,
+    "FullName": "Wu Kong",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110325,
+    "VariationId": 1,
+    "FullName": "Yaten",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110326,
+    "VariationId": 1,
+    "FullName": "Natalie",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110327,
+    "VariationId": 1,
+    "FullName": "Alfonse",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110328,
+    "VariationId": 1,
+    "FullName": "Fjorm",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110333,
+    "VariationId": 1,
+    "FullName": "Veronica",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110334,
+    "VariationId": 1,
+    "FullName": "Audric",
+    "Element": "shadow",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110334,
+    "VariationId": 2,
+    "FullName": "Gala Audric",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110335,
+    "VariationId": 1,
+    "FullName": "Patia",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110335,
+    "VariationId": 2,
+    "FullName": "Summer Patia",
+    "Element": "shadow",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110336,
+    "VariationId": 1,
+    "FullName": "Delphi",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110337,
+    "VariationId": 1,
+    "FullName": "Cassandra",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110337,
+    "VariationId": 3,
+    "FullName": "Yukata Cassandra",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110340,
+    "VariationId": 1,
+    "FullName": "Noelle",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110340,
+    "VariationId": 2,
+    "FullName": "Formal Noelle",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110341,
+    "VariationId": 1,
+    "FullName": "Akasha",
+    "Element": "wind",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110341,
+    "VariationId": 3,
+    "FullName": "Halloween Akasha",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110342,
+    "VariationId": 1,
+    "FullName": "Chelsea",
+    "Element": "flame",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110342,
+    "VariationId": 3,
+    "FullName": "Valentine's Chelsea",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110343,
+    "VariationId": 1,
+    "FullName": "Durant",
+    "Element": "shadow",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110344,
+    "VariationId": 1,
+    "FullName": "Yuya",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110345,
+    "VariationId": 1,
+    "FullName": "Mitsuhide",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110345,
+    "VariationId": 3,
+    "FullName": "Summer Mitsuhide",
+    "Element": "flame",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110346,
+    "VariationId": 1,
+    "FullName": "Nobunaga",
+    "Element": "flame",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110347,
+    "VariationId": 1,
+    "FullName": "Chitose",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110348,
+    "VariationId": 1,
+    "FullName": "Hanabusa",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110349,
+    "VariationId": 1,
+    "FullName": "Lathna",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110349,
+    "VariationId": 4,
+    "FullName": "Yukata Lathna",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110350,
+    "VariationId": 1,
+    "FullName": "Joachim",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110350,
+    "VariationId": 2,
+    "FullName": "Formal Joachim",
+    "Element": "wind",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110351,
+    "VariationId": 1,
+    "FullName": "Jiang Ziya",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110352,
+    "VariationId": 1,
+    "FullName": "Tobias",
+    "Element": "wind",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110352,
+    "VariationId": 3,
+    "FullName": "Faeblessed Tobias",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110353,
+    "VariationId": 1,
+    "FullName": "Kirsty",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110354,
+    "VariationId": 1,
+    "FullName": "Mega Man",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110355,
+    "VariationId": 1,
+    "FullName": "Lazry",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110356,
+    "VariationId": 1,
+    "FullName": "Gauld",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110357,
+    "VariationId": 1,
+    "FullName": "Nadine",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110358,
+    "VariationId": 1,
+    "FullName": "Sharena",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110359,
+    "VariationId": 1,
+    "FullName": "Chrom",
+    "Element": "flame",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110360,
+    "VariationId": 1,
+    "FullName": "Tiki",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110361,
+    "VariationId": 1,
+    "FullName": "Peony",
+    "Element": "light",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110362,
+    "VariationId": 1,
+    "FullName": "Yurius",
+    "Element": "water",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110363,
+    "VariationId": 1,
+    "FullName": "Eugene",
+    "Element": "water",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110364,
+    "VariationId": 1,
+    "FullName": "Catherine",
+    "Element": "water",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110365,
+    "VariationId": 1,
+    "FullName": "Nevin",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110365,
+    "VariationId": 3,
+    "FullName": "Dragonyule Nevin",
+    "Element": "wind",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110366,
+    "VariationId": 1,
+    "FullName": "Pinon",
+    "Element": "water",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110367,
+    "VariationId": 1,
+    "FullName": "Ilia",
+    "Element": "light",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110367,
+    "VariationId": 3,
+    "FullName": "Dragonyule Ilia",
+    "Element": "flame",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110368,
+    "VariationId": 1,
+    "FullName": "Meene",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110369,
+    "VariationId": 1,
+    "FullName": "Mordecai",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110370,
+    "VariationId": 1,
+    "FullName": "Lapis",
+    "Element": "water",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110371,
+    "VariationId": 1,
+    "FullName": "Pecorine",
+    "Element": "light",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110374,
+    "VariationId": 1,
+    "FullName": "Kuzunoha",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110375,
+    "VariationId": 1,
+    "FullName": "Seimei",
+    "Element": "flame",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110376,
+    "VariationId": 1,
+    "FullName": "Yoshitsune",
+    "Element": "water",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110377,
+    "VariationId": 1,
+    "FullName": "Joker",
+    "Element": "shadow",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110378,
+    "VariationId": 1,
+    "FullName": "Panther",
+    "Element": "flame",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110379,
+    "VariationId": 1,
+    "FullName": "Mona",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110380,
+    "VariationId": 1,
+    "FullName": "Sophie (Persona)",
+    "Element": "light",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110381,
+    "VariationId": 1,
+    "FullName": "Ryszarda",
+    "Element": "light",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110382,
+    "VariationId": 1,
+    "FullName": "Faris",
+    "Element": "flame",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110383,
+    "VariationId": 1,
+    "FullName": "Finni",
+    "Element": "water",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110384,
+    "VariationId": 1,
+    "FullName": "Eirene",
+    "Element": "light",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110385,
+    "VariationId": 1,
+    "FullName": "Humanoid Mercury",
+    "Element": "water",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110386,
+    "VariationId": 1,
+    "FullName": "Myriam",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110387,
+    "VariationId": 1,
+    "FullName": "Humanoid Midgardsormr",
+    "Element": "wind",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110388,
+    "VariationId": 1,
+    "FullName": "Vania",
+    "Element": "shadow",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110389,
+    "VariationId": 1,
+    "FullName": "Saiga",
+    "Element": "wind",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110391,
+    "VariationId": 1,
+    "FullName": "Isaac",
+    "Element": "light",
+    "Weapon": "bow"
+  },
+  {
+    "Id": 110392,
+    "VariationId": 1,
+    "FullName": "Nino",
+    "Element": "wind",
+    "Weapon": "sword"
+  },
+  {
+    "Id": 110393,
+    "VariationId": 1,
+    "FullName": "Farren",
+    "Element": "light",
+    "Weapon": "dagger"
+  },
+  {
+    "Id": 110394,
+    "VariationId": 1,
+    "FullName": "Cecile",
+    "Element": "wind",
+    "Weapon": "gun"
+  },
+  {
+    "Id": 110395,
+    "VariationId": 1,
+    "FullName": "Regina",
+    "Element": "water",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110396,
+    "VariationId": 1,
+    "FullName": "Sandalphon",
+    "Element": "water",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110397,
+    "VariationId": 1,
+    "FullName": "Basileus",
+    "Element": "wind",
+    "Weapon": "wand"
+  },
+  {
+    "Id": 110398,
+    "VariationId": 1,
+    "FullName": "Humanoid Jupiter",
+    "Element": "light",
+    "Weapon": "blade"
+  },
+  {
+    "Id": 110399,
+    "VariationId": 1,
+    "FullName": "Ayaha and Otoha",
+    "Element": "flame",
+    "Weapon": "staff"
+  },
+  {
+    "Id": 110401,
+    "VariationId": 1,
+    "FullName": "Shingen",
+    "Element": "wind",
+    "Weapon": "axe"
+  },
+  {
+    "Id": 110402,
+    "VariationId": 1,
+    "FullName": "Yukimura",
+    "Element": "shadow",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110403,
+    "VariationId": 1,
+    "FullName": "Izumo",
+    "Element": "wind",
+    "Weapon": "lance"
+  },
+  {
+    "Id": 110404,
+    "VariationId": 1,
+    "FullName": "Humanoid Zodiark",
+    "Element": "shadow",
+    "Weapon": "gun"
+  }
+]
