@@ -138,8 +138,8 @@ class Favs extends Component {
                     >
                         <div className="row justify-content-center">
                             <div className="row justify-content-center">
-                                <img src={logo} class="col-3 thumbnail img-responsive"/>
-                                <img src={favsTitle} class="col-7 thumbnail img-responsive"/>
+                                <img src={logo} className="col-3 thumbnail img-responsive"/>
+                                <img src={favsTitle} className="col-7 thumbnail img-responsive"/>
                             </div>
                             <div></div>
                             {weps.map(wep => (
@@ -150,6 +150,9 @@ class Favs extends Component {
                                     </React.Fragment>
                                 ))
                             ))}
+                            <div className="row justify-content-center">
+                                <p className="col-1 h4 mt-2 mb-2 text-muted text-nowrap">Made in sockperson.github.io/dragalia-favs</p>
+                            </div>
                         </div>
                     </OutsideClickHandler>
 

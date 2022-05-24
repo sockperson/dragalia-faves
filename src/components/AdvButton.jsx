@@ -16,7 +16,6 @@ class AdvButton extends Component {
             case "shadow": color = "dark"; break;
         }
         var classes = "btn btn-sm m-1 btn-" + color;
-        console.log(classes);
         return classes;
     }
 

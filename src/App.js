@@ -11,20 +11,24 @@ class App extends Component {
 
     };
 
-
+    exportButtonStyle = {
+        fontSize: 30,
+        fontWeight: 'bold'
+    }
 
     render(){
             const printRef = React.createRef();
 
             return (
                 <React.Fragment>
-                    <Favs key="ok" ref={printRef}></Favs>
-                    <div className="text-center mt-2">
-                        <button onClick={() => exportComponentAsPNG(printRef)} className="btn btn-secondary btn-sm">
-                            Export to PNG
-                        </button>
+                    <div className="mt-5">
+                        <Favs key="ok" className="mt-3" ref={printRef}></Favs>
+                        <div className="text-center mt-5 mb-5">
+                            <button style={this.exportButtonStyle} onClick={() => exportComponentAsPNG(printRef)} className="btn btn-secondary btn-sm">
+                                Export to PNG
+                            </button>
+                        </div>
                     </div>
-                    <p>I love minecraft!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
                 </React.Fragment>
             );
     }
