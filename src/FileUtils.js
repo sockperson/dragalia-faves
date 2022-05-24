@@ -23,7 +23,6 @@ function getAdvs(element, weapon){
         for(var i=0; i<drgs.length; i++){
             const drg = drgs[i];
              if(drg.Element === element){
-                console.log("Dragon: " + drg.Element + " " + drg.FullName);
                 const varId = (drg.VariationId < 10) ? ("0" + drg.VariationId) : (drg.VariationId);
                 const img = "https://dragalialost.wiki/thumb.php?f=" + drg.BaseId + "_" + varId + ".png&width=120";
                 matches.push(img);

@@ -1,5 +1,7 @@
 import React, { createRef } from "react";
 
+//Source: https://www.smashingmagazine.com/2021/03/outside-focus-click-handler-react-component/
+
 class OutsideClickHandler extends React.Component {
   wrapperRef = createRef();
 

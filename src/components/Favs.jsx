@@ -73,27 +73,6 @@ class Favs extends Component {
             return <div className="w-100"></div>;
         }
     }
-    /*
-    getPic(element, weapon){
-        if(element === "?" && weapon === "?"){
-            return;
-        }
-        else if(element === "?" && weapon !== "?"){
-            const img = require("../resources/misc/" + weapon + ".png");
-            return <img src={img} className="mx-auto d-block" alt=""></img>;
-        } else if(element !== "?" && weapon === "?"){
-            const img = require("../resources/misc/" + element + ".png");
-            return <img src={img} className="mx-auto d-block" alt=""></img>;
-        } else {
-            return <AdvButton
-                key={element+weapon}
-                ele={element}
-                wep={weapon}
-                img={this.getButtonImg(element, weapon)}
-                handleAdvButtonClick={this.handleAdvButtonClick}
-            />;
-        }
-    } */
 
     getCol(element, weapon){
         if(element === "?" && weapon === "?"){
@@ -133,7 +112,6 @@ class Favs extends Component {
                     <OutsideClickHandler
                         onOutsideClick={() => {
                             this.handleDisplayClickOutside();
-                            console.log("Outside Click");
                         }}
                     >
                         <div className="row justify-content-center">
