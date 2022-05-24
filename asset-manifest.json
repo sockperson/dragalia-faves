@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dragalia-faves/static/css/main.7662c2fe.css",
+    "main.js": "/dragalia-faves/static/js/main.d69f5466.js",
+    "static/media/logo_app.png": "/dragalia-faves/static/media/logo_app.b427b33b42dbcc2f1fd8.png",
+    "static/media/thinking.png": "/dragalia-faves/static/media/thinking.0726514790832762a91b.png",
+    "static/media/favs.png": "/dragalia-faves/static/media/favs.2532bea5708fa7f7d093.png",
+    "static/media/unknown.png": "/dragalia-faves/static/media/unknown.fd387341d061c4236d55.png",
+    "index.html": "/dragalia-faves/index.html",
+    "main.7662c2fe.css.map": "/dragalia-faves/static/css/main.7662c2fe.css.map",
+    "main.d69f5466.js.map": "/dragalia-faves/static/js/main.d69f5466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7662c2fe.css",
+    "static/js/main.d69f5466.js"
+  ]
+}
