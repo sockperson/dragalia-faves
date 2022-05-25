@@ -40,7 +40,6 @@ class Favs extends Component {
     handleAdvPick = (element, weapon, img) => {
         var index1 = this.state.elements.indexOf(element) - 1;
         var index2 = this.state.weapons.indexOf(weapon) - 1;
-        console.log("farts");
         const imgs = [...this.state.imgs];
         imgs[index1][index2] = img;
         this.setState({imgs});

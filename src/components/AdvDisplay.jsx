@@ -14,11 +14,13 @@ class AdvDisplay extends Component {
     }
 
     render() {
-        const advs = this.props.advs;
+        if(this.props.element === "?" || this.props.weapon === "?"){
+            return;
+        }
+        const advs = [...this.props.advs];
         advs.unshift(unknownImg);
         return (
             <div className="mx-auto border justify-content-center">
-
                     <div className="row justify-content-center">
                         {advs.map((adv, index) => (
                             <React.Fragment key={adv}>
