@@ -4,6 +4,8 @@ import {getAdvs} from '../FileUtils';
 import AdvPickButton from './AdvPickButton';
 import OutsideClickHandler from './OutsideClickHandler';
 
+const unknownImg = require("../resources/misc/unknown.png");
+
 class AdvDisplay extends Component {
     getBreak(index){
         if(index % 4 === 3){
@@ -13,7 +15,7 @@ class AdvDisplay extends Component {
 
     render() {
         const advs = this.props.advs;
-
+        advs.unshift(unknownImg);
         return (
             <div className="mx-auto border justify-content-center">
 
