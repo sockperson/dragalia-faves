@@ -26,7 +26,6 @@ class App extends Component {
 
     getLangButtonClasses = (lang) => {
         var className = "btn btn-sm ml-2 mr-2 btn-";
-        console.log("wtf: " + lang + " " + this.state.lang);
         if(this.state.lang === lang){
             className += "primary";
         } else {
