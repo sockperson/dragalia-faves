@@ -9,7 +9,6 @@ import OutsideClickHandler from './OutsideClickHandler';
 const unknownImg = require("../resources/misc/unknown.png");
 
 const logo = require("../resources/misc/logo_app.png");
-const favsTitle = require("../resources/misc/favs.png");
 
 class Favs extends Component {
     state = {
@@ -100,7 +99,12 @@ class Favs extends Component {
         }
     }
 
-
+    getSelfPlugText(){
+        if(this.props.lang === "en"){
+            return "Made in sockperson.github.io/dragalia-faves";
+        }
+        return "テンプレ　sockperson.github.io/dragalia-faves";
+    }
 
     render() {
         const eles = this.state.elements;
@@ -116,7 +120,7 @@ class Favs extends Component {
                         <div className="row justify-content-center">
                             <div className="row justify-content-center">
                                 <img src={logo} className="col-3 thumbnail img-responsive"/>
-                                <img src={favsTitle} className="col-7 thumbnail img-responsive"/>
+                                <img src={require("../resources/misc/favs_" + this.props.lang + ".png")} className="col-7 thumbnail img-responsive"/>
                             </div>
                             <div></div>
                             {weps.map(wep => (
@@ -127,8 +131,8 @@ class Favs extends Component {
                                     </React.Fragment>
                                 ))
                             ))}
-                            <div className="row justify-content-center">
-                                <p className="col-5 h4 mt-2 mb-2 text-muted text-nowrap">Made in sockperson.github.io/dragalia-faves</p>
+                            <div className="text-center">
+                                <p className="h4 mt-2 mb-2 text-muted text-nowrap">{this.getSelfPlugText()}</p>
                             </div>
                         </div>
                     </OutsideClickHandler>
